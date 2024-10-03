@@ -13,7 +13,7 @@ nltk.download('omw-1.4')
 nltk.data.path.append('/home/vscode/nltk_data')
 # corpora/stopwords
 # /usr/local/bin/python /workspaces/Spam-Message-Detector/download_stopwords.py
-
+# venv/lib/python3.11/site-packages/nltk
 ps = PorterStemmer()
 
 
